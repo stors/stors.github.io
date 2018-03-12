@@ -3,7 +3,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# University of Trier
+## University of Trier
 
 * 10/2014 - 03/2015: Hauptseminar Statistische Methoden in der Humangeographie
 * 04/2014 - 03/2015: Lehrforschungsprojekt Share Economy

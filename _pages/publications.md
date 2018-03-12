@@ -8,7 +8,7 @@ permalink: /publications/
 **Professional complaint management as a challenge for tourism industry.**<br/>
 <u>Natalie Stors</u>.<br/>
 *Kagermeier, Andreas & Saarinen, Jarkko (Hrsg.): Transforming and Managing Destinations. Tourism and Leisure in a Time of Global Change and Risks (= Studien zur Freizeit- und Tourismusforschung, Band 8). Mannheim. S. 275-287.*<br/>
-<a href="" style="text-decoration:none" target="_blank"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="" target="_blank"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ### Copyright Notice
 

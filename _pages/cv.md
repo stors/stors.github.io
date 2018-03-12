@@ -6,17 +6,13 @@ permalink: /cv/
 ## Professional Experience
 
 **08/2013 - current:**
-Research Assistant at the chair of leisure and tourism geography at Trier University, courses held, among others:
-* Advanced Methods and Techniques in Human Geography: *Statistical Methods in Human Geography* (Master) 
-* Advanced Regional and Location Analysis: *Gentrification in Berlin* (Master) and *Tourism Mobility in Berlin* (Master) 
+Research Assistant at the chair of leisure and tourism geography at Trier University, courses held, among others are *Advanced Methods and Techniques in Human Geography: Statistical Methods in Human Geography* (Master), *Advanced Regional and Location Analysis: Gentrification in Berlin* (Master), and *Tourism Mobility in Berlin* (Master) 
 
 **05/2017:**
 Planning and Organization of the international conference *Touristified everyday life – mundane tourism: Current perspectives on urban tourism*, Georg Simmel Center for Metropolitan Studies, Berlin, Germany
 
 **04/2011 - 07/2014:**
-Lecturer at Trier University, courses held, among others:
-* Research project: *Tourism in the Ahr valley*; research project in cooperation with the chamber of commerce, Koblenz (Bachelor)
-* Introductory seminar: *Basics of leisure and tourism geography* (Bachelor)
+Lecturer at Trier University, courses held, among others: *Research project: Tourism in the Ahr valley* (Bachelor, research project in cooperation with the chamber of commerce, Koblenz) and *Introductory seminar: Basics of leisure and tourism geography* (Bachelor)
 
 **03/2012 - 08/2012:**
 Internship at the tourism strategy consulting agency PROJECT M GmbH in Berlin

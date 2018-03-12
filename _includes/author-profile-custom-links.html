@@ -14,6 +14,14 @@
   </li>
 {% endif %}
 
+{% if author.academia %}
+  <li>
+    <a href="http://uni-trier.academia.edu/{{ author.academia }}" itemprop="sameAs">
+      <i class="ai ai-fw ai-academia" aria-hidden="true"></i> Academia
+    </a>
+  </li>
+{% endif %}
+
 {% if author.researchgate %}
   <li>
     <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
@@ -22,10 +30,3 @@
   </li>
 {% endif %}
 
-{% if author.academia %}
-  <li>
-    <a href="http://uni-trier.academia.edu/{{ author.researchgate }}" itemprop="sameAs">
-      <i class="ai ai-fw ai-academia" aria-hidden="true"></i> Academia
-    </a>
-  </li>
-{% endif %}

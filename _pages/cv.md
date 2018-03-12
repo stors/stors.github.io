@@ -1,9 +1,7 @@
 ---
-title: CV
+title: Short SV
 permalink: /cv/
 ---
-
-# Short CV
 
 ## Professional Experience
 

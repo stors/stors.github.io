@@ -8,19 +8,19 @@ permalink: /publications/
 **Airbnb als neuer Akteur im New Urban Tourism: Beweggründe zur Partizipation aus Anbieterperspektive.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Geographische Zeitschrift. S190-224.*<br/>
-<a href="http://wordpress.kagermeier.de/wp-content/uploads/2017/06/Stors-Kagermeier_Airbnb_GZ-2017-Manuskript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://wordpress.kagermeier.de/wp-content/uploads/2017/06/Stors-Kagermeier_Airbnb_GZ-2017-Manuskript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **The sharing economy and its role in metropolitan tourism.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Gravari-Barbas, Maria & Guinand, Sandra (Hrsg.): Tourism & Gentrification in Contemporary Metropolises. London. p. 181-206.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/Chapter_7_Stors-Kagermeier-Tourism-Gentrification_Manuscript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/Chapter_7_Stors-Kagermeier-Tourism-Gentrification_Manuscript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2016
 
 **Airbnb als Share Economy - Herausforderung für Berlin und die Reaktion der Hotelbranche.**<br/>
 Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 *Bauhuber, Florian & Hopfinger, Hans (Hrsg.): Mit Auto, Brille, Fon und Drohne. Aspekte neuen Reisens im 21. Jahrhundert (= Studien zur Freizeit- und Tourismusforschung, Band 10). Mannheim. p. 67-94.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/SFT_11_Kagermeier-Koeller-Stros_Airbnb-Berlin-Hotellerie_Korrekturabzug.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/SFT_11_Kagermeier-Koeller-Stros_Airbnb-Berlin-Hotellerie_Korrekturabzug.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Airbnb’s impact on the hospitality industry in Berlin.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
@@ -31,17 +31,17 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 **Motives for using Airbnb in metropolitan tourism – why do people sleep in the bed of a stranger?**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Regions: The Newsletter of the Regional Studies Association 299, Issue 3, Autumn 2015, p. 17-19.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors-Kagermeier_Share-Economy_Regions_Manuscript_final_30-05-2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors-Kagermeier_Share-Economy_Regions_Manuscript_final_30-05-2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Share Economy in metropolitan tourism: The role of authenticity-seeking.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *István Tózsa & Anita Zátori (Hrsg.): Metropolitan Tourism Experience Development. Budapest. p. 90-103.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/RSA-Stors-Kagermeier_Sharing-Economy_metropolitantour_2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/RSA-Stors-Kagermeier_Sharing-Economy_metropolitantour_2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Share Economy im Tourismus. Zwischen pragmatischen Motiven und der Suche nach authentischen Erlebnissen.**<br/>
 Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 *Zeitschrift für Tourismuswissenschaften (zftw), Vol. 7/2, p. 117-145.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/ZfTW_1_2015_Kagermeier-Koeller-Stors_Share-Economy_Korrekturfahne.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/ZfTW_1_2015_Kagermeier-Koeller-Stors_Share-Economy_Korrekturfahne.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2014
 
@@ -58,12 +58,12 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 **Crossing the Border of the Tourist Bubble: Touristification in Copenhagen.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. p. 115-131.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors_Kagermeier_Copenhagen_Touristification_2013_115_132.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors_Kagermeier_Copenhagen_Touristification_2013_115_132.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Cross-border tourism Montenegro-Albania: Underutilised potentials and constraints.**<br/>
 Andreas Kagermeier and <u>Natalie Stors</u>.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. p. 41-59.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Kagermeier_Stors_Cross-Border_Tourism_Montenegro-Albania_SFT_09_2013_014-060.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Kagermeier_Stors_Cross-Border_Tourism_Montenegro-Albania_SFT_09_2013_014-060.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2012
 

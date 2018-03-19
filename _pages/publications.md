@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Airbnb als neuer Akteur im New Urban Tourism: Beweggründe zur Partizipation aus Anbieterperspektive.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
-*Geographische Zeitschrift. Volume 105, Numbers 3-4, July 2017, pp. 190-224(35).*<br/>
+*Geographische Zeitschrift. Volume 105, Numbers 3-4, July 2017, pp. 190-224.*<br/>
 <a href="http://wordpress.kagermeier.de/wp-content/uploads/2017/06/Stors-Kagermeier_Airbnb_GZ-2017-Manuskript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **The sharing economy and its role in metropolitan tourism.**<br/>

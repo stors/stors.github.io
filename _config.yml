@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "newurbantourism.de"
+title                    : "nataliestors.de"
 title_separator          : "-"
 name                     : "Natalie Stors"
 description              : "Personal website of Natalie Stors, tourism geography researcher."
@@ -97,7 +97,7 @@ author:
   bio              : "Tourism geography researcher"
   location         : "Trier, Germany"
   email            : "stors@uni-trier.de"
-  uri              : "http://newurbantourism.de"
+  uri              : "http://nataliestors.de"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :

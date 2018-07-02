@@ -13,7 +13,7 @@ permalink: /publications/
 **The sharing economy and its role in metropolitan tourism.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Gravari-Barbas, Maria & Guinand, Sandra (Hrsg.): Tourism & Gentrification in Contemporary Metropolises. London. pp. 181-206.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/Chapter_7_Stors-Kagermeier-Tourism-Gentrification_Manuscript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/tgcm17-sharing-economy-metropolitan-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2016
 
@@ -27,17 +27,17 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 **Motives for using Airbnb in metropolitan tourism – why do people sleep in the bed of a stranger?**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Regions: The Newsletter of the Regional Studies Association 299, Issue 3, Autumn 2015, pp. 17-19.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors-Kagermeier_Share-Economy_Regions_Manuscript_final_30-05-2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/rsa15-airbnb-motives.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Share Economy in metropolitan tourism: The role of authenticity-seeking.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *István Tózsa & Anita Zátori (Hrsg.): Metropolitan Tourism Experience Development. Budapest. pp. 90-103.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/RSA-Stors-Kagermeier_Sharing-Economy_metropolitantour_2015.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/mted15-share-economy-metropolitan tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Share Economy im Tourismus. Zwischen pragmatischen Motiven und der Suche nach authentischen Erlebnissen.**<br/>
 Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 *Zeitschrift für Tourismuswissenschaften (zftw), Vol. 7/2, pp. 117-145.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/ZfTW_1_2015_Kagermeier-Koeller-Stors_Share-Economy_Korrekturfahne.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/zftw15-share-economy-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2014
 
@@ -55,12 +55,12 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 **Crossing the Border of the Tourist Bubble: Touristification in Copenhagen.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. pp. 115-131.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Stors_Kagermeier_Copenhagen_Touristification_2013_115_132.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/sft13-touristification-copenhagen.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Cross-border tourism Montenegro-Albania: Underutilised potentials and constraints.**<br/>
 Andreas Kagermeier and <u>Natalie Stors</u>.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. pp. 41-59.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2006/Kagermeier_Stors_Cross-Border_Tourism_Montenegro-Albania_SFT_09_2013_014-060.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/sft13-cross-border-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2012
 

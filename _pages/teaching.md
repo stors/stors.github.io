@@ -23,7 +23,7 @@ permalink: /teaching/
 
 * 10/2015 - 03/2016: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
 
-* 04/2015 - 07/2015: Seminar Interdisziplinäre Stadtforschung (Georg-Simmel-Zentrum für Metropolenforschung (GSZ) der Humboldt Universität Berlin, Master)
+* 04/2015 - 07/2015: Seminar Interdisziplinäre Stadtforschung (Georg-Simmel-Zentrum für Metropolenforschung (GSZ) der Humboldt Universität Berlin, Bachelor/Master)
 
 ## 2014
 

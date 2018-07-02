@@ -11,13 +11,13 @@ permalink: /teaching/
 
 * 10/2017 - 04/2018: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
 
-* 04/2017 - 07/2017: Lehrforschungsprojekt Touristische Mobilität in Berlin (2 Semester, Universität Trier, Master)
+* 04/2017 - 03/2018: Lehrforschungsprojekt Touristische Mobilität in Berlin (2 Semester, Universität Trier, Master)
 
 ## 2016
 
 * 10/2016 - 03/2017: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
 
-* 04/2016 - 07/2016: Lehrforschungsprojekt Gentrifizierung in Berlin (2 Semester, Universität Trier, Master)
+* 04/2016 - 03/2017: Lehrforschungsprojekt Gentrifizierung in Berlin (2 Semester, Universität Trier, Master)
 
 ## 2015
 

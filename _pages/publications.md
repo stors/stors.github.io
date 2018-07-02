@@ -8,7 +8,7 @@ permalink: /publications/
 **Airbnb als neuer Akteur im New Urban Tourism: Beweggründe zur Partizipation aus Anbieterperspektive.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
 *Geographische Zeitschrift. Volume 105, Numbers 3-4, July 2017, pp. 190-224.*<br/>
-<a href="http://wordpress.kagermeier.de/wp-content/uploads/2017/06/Stors-Kagermeier_Airbnb_GZ-2017-Manuskript.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+<a href="/assets/pdf/gz17-airbnb-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **The sharing economy and its role in metropolitan tourism.**<br/>
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
@@ -20,11 +20,7 @@ permalink: /publications/
 **Airbnb als Share Economy - Herausforderung für Berlin und die Reaktion der Hotelbranche.**<br/>
 Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 *Bauhuber, Florian & Hopfinger, Hans (Hrsg.): Mit Auto, Brille, Fon und Drohne. Aspekte neuen Reisens im 21. Jahrhundert (= Studien zur Freizeit- und Tourismusforschung, Band 10). Mannheim. pp. 67-94.*<br/>
-<a href="http://www.kagermeier.de/mediapool/15/157354/data/Publikationen_ab_2016/SFT_11_Kagermeier-Koeller-Stros_Airbnb-Berlin-Hotellerie_Korrekturabzug.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
-
-**Airbnb’s impact on the hospitality industry in Berlin.**<br/>
-<u>Natalie Stors</u> and Andreas Kagermeier.<br/>
-*Tourism Trends Review. Turismo em 2016, Vol. 2016. pp. 76-79.*<br/>
+<a href="/assets/pdf/sft16-airbnb-share-economy.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2015
 
@@ -48,6 +44,7 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 **Kommodifizierung im Tourismus - der Bedarf nach Innovation: Das Global Greeter Network als beispielhaftes Produkt eines neuen Städtetourismus.**<br/>
 <u>Natalie Stors</u> and Fanziska Klein.<br/>
 *Küblböck, Stefan & Thiele, Franziska (Hrsg.): Tourismus und Innovation (= Studien zur Freizeit- und Tourismusforschung, Band 10). Mannheim. pp. 107-122.*<br/>
+<a href="/assets/pdf/sft14-global-greeter-network.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 **Explorer-Touristen im Städtetourismus. Ein Charakterisierungsversuch unterschiedlicher Besuchergruppen in Kopenhagen.**<br/>
 <u>Natalie Stors</u>.<br/>

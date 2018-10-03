@@ -1,6 +1,6 @@
 ---
 title: Short Curriculum Vitae
-permalink: /cv/
+permalink: /cv
 ---
 
 ## Professional Experience

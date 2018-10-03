@@ -1,6 +1,6 @@
 ---
 title: Teaching
-permalink: /teaching/
+permalink: /teaching
 ---
 
 ## 2018

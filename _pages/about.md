@@ -3,8 +3,6 @@ title: About
 permalink: /about
 ---
 
-The following information is required by German law.
-
 ## Information according to § 5 TMG
 
 Natalie Stors<br/>
@@ -21,5 +19,5 @@ Germany
 
 ## Contact
 
-Email: stors@uni-trier.de<br/>
+Email: stors [at] uni-trier [dot] de<br/>
 Phone: +49 6581 8273011

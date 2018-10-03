@@ -3,8 +3,6 @@ title: About
 permalink: /about
 ---
 
-<br/>
-
 The following information is required by German law.
 
 ## Information according to § 5 TMG

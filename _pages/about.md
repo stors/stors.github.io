@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 ## Information according to § 5 TMG

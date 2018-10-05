@@ -96,35 +96,44 @@ author:
   avatar           : "/assets/images/natalie.jpg"
   bio              : "Tourism Geography Researcher"
   location         : "Trier, Germany"
-  email            : "stors@uni-trier.de"
-  uri              : "http://nataliestors.de"
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             : Natalie_Stors
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  academia         : NatalieStors
-  researchgate     : Natalie_Stors
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stors@uni-trier.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://nataliestors.de"
+    - label: "XING"
+      icon: "fas fa-fw fa-xing"
+      url: "https://www.xing.com/profile/Natalie_Stors"
+    - label: "Academia"
+      icon: "ai ai-fw ai-academia"
+      url: "http://uni-trier.academia.edu/NatalieStors"
+    - label: "ResearchGate"
+      icon: "ai ai-fw ai-academia"
+      url: "https://www.researchgate.net/profile/Natalie_Stors"
 
+# Site Footer
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      # url:
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url:
 
 # Reading Files
 include:
@@ -203,6 +212,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -211,6 +221,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives

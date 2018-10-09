@@ -85,7 +85,7 @@ To this end, we extracted all places that *visitBerlin* mentions in the correspo
 ## Results
 
 In our case study, we found that the types of places and sights described greatly differ between the two neighborhoods *Kreuzkölln* and *City West*.
-While *Kreuzkölln* hosts mainly reframed everyday places to be worth visiting, *City West* hosts primarily focused on well-known sights that were likewise promoted by the DMO.  
+While *Kreuzkölln* hosts mainly reframed everyday places to be worth visiting, *City West* hosts primarily focused on well-known sights that were likewise promoted by the DMO.
 In the neighborhood of *Kreuzkölln*, the places and facilities described to be worth visiting originally served the needs of local residents.
 A *canal* bordering *Neukölln* ("Landwehrkanal") and a weekly *food market* were marked as the areas’ highlights.
 These facilities, however, do rarely attract visitors due to their physical appearance alone:
@@ -99,7 +99,7 @@ Instead, Airbnb hosts convey specific meanings to these places.
 In their neighborhood descriptions, hosts signify *Landwehrkanal* as a beautiful place to spend a typical Berlin summer night and describe the food market as an exotic place.
 Hosts encourage their guests to buy typical food in order to experience the neighborhoods' multicultural atmosphere.
 As a result of these neighborhood descriptions, certain space images are collaboratively constructed and (re-)produced by Airbnb hosts.
-In the case of *Kreuzkölln*, a residential area and its prevalent local infrastructure is reinterpreted as a touristic place.  
+In the case of *Kreuzkölln*, a residential area and its prevalent local infrastructure is reinterpreted as a touristic place.
 The second neighborhood *City West*, in contrast, provides facilities that are generally understood as sights or attractions.
 In their listing descriptions, hosts focused primarily on sights in close proximity to their room or apartment.
 Iconic architecture that is located further away, such as *Brandenburg Gate* or *Reichstag*, was rarely mentioned.

@@ -3,6 +3,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## 2019
+
+* 10/2018 - 04/2019: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
+
 ## 2018
 
 * 04/2018 - 07/2018: Seminar Grundlagen der sektoralen Planung: Einführung in die Freizeit- und Tourismusgeographie (Universität Trier, Bachelor)

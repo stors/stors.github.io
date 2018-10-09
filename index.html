@@ -1,0 +1,18 @@
+---
+layout: archive
+---
+
+I'm a <b>researcher</b>, <b>teaching assistant</b>, and <b>Ph.D. student</b> at the Chair of Leisure and Tourism Geography of Trier University in Germany. The working title of my dissertation is: <i>"Airbnb-hosts as actors in new urban tourism: The practice of hosting  and the construction of tourism space"</i>. You may also visit the <a href="https://newurbantourism.wordpress.com" target="_blank">blog</a> of our research group on new urban tourism. 
+
+<p align="center" style="padding-bottom: 10pt;">
+    <img alt="Reuterkiez" src="/assets/images/reuterplatz.png" style="width: 98%;">
+    <sub>Reuterplatz Berlin (&#169; 2016-2018 Natalie Stors)</sub>
+</p>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Natalie Stors"
   avatar           : "/assets/images/natalie.jpg"
-  bio              : "Tourism Geography Researcher"
+  bio              : "Tourism Geography <br/> Researcher"
   location         : "Trier, Germany"
   links:
     - label: "Email"
@@ -104,14 +104,17 @@ author:
       icon: "fas fa-fw fa-link"
       url: "http://nataliestors.de"
     - label: "XING"
-      icon: "fas fa-fw fa-xing"
+      icon: "fab fa-fw fa-xing"
       url: "https://www.xing.com/profile/Natalie_Stors"
     - label: "Academia"
       icon: "ai ai-fw ai-academia"
       url: "http://uni-trier.academia.edu/NatalieStors"
     - label: "ResearchGate"
-      icon: "ai ai-fw ai-academia"
+      icon: "ai ai-fw ai-researchgate"
       url: "https://www.researchgate.net/profile/Natalie_Stors"
+    - label: "Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.de/citations?user=bSphiZYAAAAJ"
 
 # Site Footer
 #footer:

@@ -141,4 +141,12 @@ By the means of digital technologies and online platforms, local people can like
 
 ## More Information
 
-A more detailed description of our research design and results can be found in our [research paper](/publications#cscw18-airbnb){:target="_blank"}. If you have any further questions, do not hesitate to contact me.
+This blog post is based on the following paper, which will be presented at the *21st ACM Conference on Computer-Supported Cooperative Work and Social Computing* ([CSCW 2018](http://cscw.acm.org/)) on Tuesday, November 6:
+
+<a name="cscw18-airbnb"></a>
+**Constructing Urban Tourism Space Digitally: A Study of Airbnb Listings in Two Berlin Neighborhoods.**<br/>
+<u>Natalie Stors</u> and <a href="http://sbaltes.com" target="_blank" style="color: inherit; text-decoration: none;">Sebastian Baltes</a>.<br/>
+*Proceedings of the ACM on Human-Computer Interaction, Vol. 2, Issue CSCW, Article 166 (PACMHCI/CSCW 2018) (to appear).*<br/>
+<a href="/assets/pdf/cscw18-airbnb.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+
+If you have any further questions, do not hesitate to contact me.

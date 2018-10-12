@@ -12,6 +12,8 @@ published: true
 
 **TL;DR:** *Traditionally, urban tourism space is understood as a fixed, spatial entity. We follow a constructionist approach and argue that urban tourism space is also (re-)produced digitally and collaboratively on online platforms such as Airbnb. We relate our work to a CSCW research direction that is concerned with the role of digital technologies in the production and appropriation of urban space and use the concept of representations as a theoretical lens for our empirical study, in which we qualitatively analyzed how the two Berlin neighborhoods Kreuzkölln and City West are digitally constructed by Airbnb hosts in their listing descriptions. We also quantitatively investigated to what extend mentioned places differ between Airbnb hosts and visitBerlin, the city's destination management organization (DMO). In the traditional urban tourism hotspot City West, hosts referred to many places also mentioned by the DMO. In the neighborhood of Kreuzkölln, in contrast, hosts reframed everyday places such as parks or an immigrant food market as the must sees in the area. We discuss how Airbnb hosts contribute to the discursive production of urban neighborhoods and thus co-produce them as tourist destinations.*
 
+<i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Article on [Medium](https://medium.com/@s_baltes/constructing-urban-tourism-space-digitally-36f7575256a8)
+
 ## Motivation
 
 Airbnb, the largest digital peer-to-peer distribution platform for accommodations, operates in about 81,000 cities in 191 countries, offering 4.5 million rooms, apartments, houses, and other types of accommodation.

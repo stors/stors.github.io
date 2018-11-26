@@ -8,7 +8,7 @@ permalink: /publications/
 <a name="cscw18-airbnb"></a>
 **Constructing Urban Tourism Space Digitally: A Study of Airbnb Listings in Two Berlin Neighborhoods.**<br/>
 <u>Natalie Stors</u> and <a href="http://sbaltes.com" target="_blank" style="color: inherit; text-decoration: none;">Sebastian Baltes</a>.<br/>
-*Proceedings of the ACM on Human-Computer Interaction, Vol. 2, Issue CSCW, Article 166 (PACMHCI/CSCW 2018) (to appear).*<br/>
+*Proceedings of the ACM on Human-Computer Interaction, Vol. 2, Issue CSCW, Article 166 (PACMHCI/CSCW 2018).*<br/>
 <a href="/assets/pdf/cscw18-airbnb.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2017

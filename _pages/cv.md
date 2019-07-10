@@ -26,7 +26,7 @@ Student Assistant in the department of marketing at Landal GreenParks GmbH in Sa
 
 ## Education
 
-**08/2013 - current:**
+**08/2013 - 07/2019:**
 PhD-Student, Geography, Trier University, Germany 
 Working  Title: *Airbnb-hosts as actors in new urban tourism: The practice of hosting  and the construction of tourism space*
 

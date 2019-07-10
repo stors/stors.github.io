@@ -5,7 +5,7 @@ permalink: /publications/
 
 ## 2019
 
-**Software Developers’ Work Habits and Expertise: Empirical Studies on Sketching, Code Plagiarism, and Expertise Development.**<br/>
+**Airbnb-Gastgeber als Akteure des New Urban Tourism: Studien zur kurzzeitigen Vermietung von Wohnraum und zur Konstruktion neuer touristischer Räume in Berlin.**<br/>
 <u>Natalie Stors</u>.<br/>
 *Doctoral Dissertation (University of Trier, Germany).*<br/>
 <a href="/assets/pdf/diss-abstract.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Abstract</a>

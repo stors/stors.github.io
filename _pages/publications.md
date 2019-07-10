@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2019
 
+**Software Developers’ Work Habits and Expertise: Empirical Studies on Sketching, Code Plagiarism, and Expertise Development.**<br/>
+<u>Natalie Stors</u>.<br/>
+*Doctoral Dissertation (University of Trier, Germany).*<br/>
+<a href="/assets/pdf/diss-abstract.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Abstract</a>
+
 **Living with Guests: Understanding the Reasons for Hosting via Airbnb in a Mobile Society.**<br/>
 <u>Natalie Stors</u>.<br/>
 *In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>

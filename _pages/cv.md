@@ -31,7 +31,7 @@ Student assistant in the department of marketing at Landal GreenParks GmbH in Sa
 
 **08/2013 - 07/2019:**
 Dr. phil. (PhD), Geography, Trier University, Germany<br/>
-Title of dissertation: *Airbnb hosts as actors in new urban tourism: Studies on short-term housing rental and the construction of tourism space in Berlin*
+Title of dissertation: *Airbnb hosts as actors in new urban tourism: Studies on short-term rental and the construction of tourism space in Berlin*
 
 **01/2015 - 06/2015:**
 Scholarship at the Georg Simmel Center  for Metropolitan Studies at Humboldt-University Berlin

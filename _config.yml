@@ -13,8 +13,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "nataliestors.de"
 title_separator          : "-"
-name                     : "Natalie Stors"
-description              : "Personal website of Natalie Stors, Tourism Geography Researcher."
+name                     : "Dr. Natalie Stors"
+description              : "Dr. Natalie Stors, Tourism Geography Researcher"
 url                      : "https://stors.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stors/stors.github.io"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Natalie Stors"
+  name             : "Dr. Natalie Stors"
   avatar           : "/assets/images/natalie.jpg"
   bio              : "Tourism Geography <br/> Researcher"
   location         : "Trier, Germany"

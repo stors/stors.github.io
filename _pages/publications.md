@@ -23,13 +23,6 @@ permalink: /publications/
 *In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>
 <a href="https://www.routledge.com/Tourism-and-Everyday-Life-in-the-Contemporary-City-1st-Edition/Frisch-Sommer-Stoltenberg-Stors/p/book/9781138580725#" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
 
-**Entwicklungslinien und Perspektiven der New Urban Tourism-Forschung.**<br/>
-Christoph Sommer, Luise Stoltenberg, Thomas Frisch, and <u>Natalie Stors</u>.<br/>
-*In: Tim Freytag und Andreas Kagermeier (Hrsg.): Touristifizierung urbaner Räume (Studien zur Freizeit- und Tourismusforschung, Band 15, pp. 15-31).*<br/>
-<a href="/assets/pdf/sft19-perspektiven-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
-&#8226;
-<a href="https://www.ak-tourismusforschung.org/de/sft-15-touristifizierung-urbaner-raeume/" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
-
 **Tourism and Everyday Life in the Contemporary City: An Introduction.**<br/>
 <u>Natalie Stors</u>, Luise Stoltenberg, Thomas Frisch, and Christoph Sommer.<br/>
 *In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>
@@ -39,6 +32,13 @@ Christoph Sommer, Luise Stoltenberg, Thomas Frisch, and <u>Natalie Stors</u>.<br
 Edited by Thomas Frisch, Christoph Sommer, Luise Stoltenberg, and <u>Natalie Stors</u>.<br/>
 *Routledge Studies in Urbanism and the City.*<br/>
 <a href="https://www.routledge.com/Tourism-and-Everyday-Life-in-the-Contemporary-City-1st-Edition/Frisch-Sommer-Stoltenberg-Stors/p/book/9781138580725#" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
+
+**Entwicklungslinien und Perspektiven der New Urban Tourism-Forschung.**<br/>
+Christoph Sommer, Luise Stoltenberg, Thomas Frisch, and <u>Natalie Stors</u>.<br/>
+*In: Tim Freytag und Andreas Kagermeier (Hrsg.): Touristifizierung urbaner Räume (Studien zur Freizeit- und Tourismusforschung, Band 15, pp. 15-31).*<br/>
+<a href="/assets/pdf/sft19-perspektiven-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+&#8226;
+<a href="https://www.ak-tourismusforschung.org/de/sft-15-touristifizierung-urbaner-raeume/" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
 
 ## 2018
 

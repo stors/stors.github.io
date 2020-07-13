@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ## 2020
 
-10/2019 - 04/2020: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
+* 10/2019 - 04/2020: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
 
 ## 2019
 

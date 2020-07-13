@@ -9,7 +9,6 @@ permalink: /cv/
 Postdoctoral researcher at the chair of leisure and tourism geography at Trier University, Germany
 
 **09/2019-10/2019:**
-
 Project-based work on "Technology Investment and  Tourism Growth" led by Associate Professor Rob Hallak at UniSA Business School, University of South Australia, Australia
 
 **08/2013 - 07/2019:**
@@ -60,19 +59,15 @@ Reviewer for the following academic journals:
 
 **2020**
 
-[Tourism Geographies](https://www.tgjournal.com/)
+* [Tourism Geographies](https://www.tgjournal.com/)
 
 **2019**
 
-[Zeitschrift für Tourismuswissenschaft - Journal of Tourism Science](https://www.degruyter.com/view/journals/tw/tw-overview.xml?language=de)
-
-[Raumforschung und Raumordnung - Spatial Research and Planning](https://link.springer.com/journal/13147/)
-
-[Scandinavian Journal of Hospitality and Tourism](https://www.tandfonline.com/toc/sjht20/current)
-
-[Proceedings of the ACM on Human-Computer Interaction - CSCW](https://cscw.acm.org/2019/)
+* [Zeitschrift für Tourismuswissenschaft - Journal of Tourism Science](https://www.degruyter.com/view/journals/tw/tw-overview.xml?language=de)
+* [Raumforschung und Raumordnung - Spatial Research and Planning](https://link.springer.com/journal/13147/)
+* [Scandinavian Journal of Hospitality and Tourism](https://www.tandfonline.com/toc/sjht20/current)
+* [Proceedings of the ACM on Human-Computer Interaction - CSCW](https://cscw.acm.org/2019/)
 
 **2015-2017**
 
-Elected representative of Ph.D. students for Faculty VI in the [Graduate Center](https://www.uni-trier.de/index.php?id=69578), University of Trier, Germany
-
+* Elected representative of Ph.D. students for Faculty VI in the [Graduate Center](https://www.uni-trier.de/index.php?id=69578), University of Trier, Germany

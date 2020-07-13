@@ -3,8 +3,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## 2020
+
+10/2019 - 04/2020: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
+
 ## 2019
 
+* 04/2019 - 07/2019: Seminar Regional- und Standortanalyse, Fallbeispiel Kopenhagen (Universität Trier, Master)
+* 04/2019 - 07/2019: Lehrforschungsprojekt Tourism and Governance in Copnhagen (Universität Trier, Master)
 * 10/2018 - 04/2019: Hauptseminar Statistische Methoden in der Humangeographie (Universität Trier, Master)
 
 ## 2018

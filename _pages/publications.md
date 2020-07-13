@@ -3,6 +3,14 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2020
+
+<a name="cscw18-airbnb"></a>
+**Constructing New Urban Tourism Space Through Airbnb.**<br/>
+<u>Natalie Stors</u><br/>
+*Tourism Geographies: An International Journal of Tourism Space, Place and Environment ([Online](https://doi.org/10.1080/14616688.2020.1750683)).*<br/>
+<a href="/assets/pdf/tg20-constructing-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+
 ## 2019
 
 **Airbnb-Gastgeber als Akteure des New Urban Tourism: Studien zur kurzzeitigen Vermietung von Wohnraum und zur Konstruktion neuer touristischer Räume in Berlin.**<br/>
@@ -14,6 +22,13 @@ permalink: /publications/
 <u>Natalie Stors</u>.<br/>
 *In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>
 <a href="https://www.routledge.com/Tourism-and-Everyday-Life-in-the-Contemporary-City-1st-Edition/Frisch-Sommer-Stoltenberg-Stors/p/book/9781138580725#" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
+
+**Entwicklungslinien und Perspektiven der New Urban Tourism-Forschung.**<br/>
+Christoph Sommer, Luise Stoltenberg, Thomas Frisch, and <u>Natalie Stors</u>.<br/>
+*In: Tim Freytag und Andreas Kagermeier (Hrsg.): Touristifizierung urbaner Räume (Studien zur Freizeit- und Tourismusforschung, Band 15, pp. 15-31).*<br/>
+<a href="/assets/pdf/sft19-perspektiven-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+&#8226;
+<a href="https://www.ak-tourismusforschung.org/de/sft-15-touristifizierung-urbaner-raeume/" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
 
 **Tourism and Everyday Life in the Contemporary City: An Introduction.**<br/>
 <u>Natalie Stors</u>, Luise Stoltenberg, Thomas Frisch, and Christoph Sommer.<br/>

@@ -54,7 +54,7 @@ Title of thesis: *Analysis and Optimization of the complaint management in the c
 **09/1998 - 03/2007:**
 Abitur, Staatliches Gymnasium Saarburg, Germany
 
-## Services
+## Services and Committee Work
 
 Reviewer for the following academic journals:
 
@@ -71,3 +71,8 @@ Reviewer for the following academic journals:
 [Scandinavian Journal of Hospitality and Tourism](https://www.tandfonline.com/toc/sjht20/current)
 
 [Proceedings of the ACM on Human-Computer Interaction - CSCW](https://cscw.acm.org/2019/)
+
+**2015-2017**
+
+Elected representative of Ph.D. students for Faculty VI in the [Graduate Center](https://www.uni-trier.de/index.php?id=69578), University of Trier, Germany
+

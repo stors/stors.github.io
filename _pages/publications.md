@@ -3,13 +3,22 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2021
+
+**New Urban Tourism.**<br/>
+Christoph Sommer and <u>Natalie Stors</u><br/>
+*Geographische Rundschau 1/2-2021.*<br/>
+<a href="https://www.westermann.de/artikel/51210101/Geographische-Rundschau-digital-Tourismus?f=F51210100" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
+
 ## 2020
 
 <a name="cscw18-airbnb"></a>
 **Constructing New Urban Tourism Space Through Airbnb.**<br/>
 <u>Natalie Stors</u><br/>
-*Tourism Geographies: An International Journal of Tourism Space, Place and Environment ([Online](https://doi.org/10.1080/14616688.2020.1750683)).*<br/>
+*Tourism Geographies: An International Journal of Tourism Space, Place and Environment.*<br/>
 <a href="/assets/pdf/tg20-constructing-new-urban-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+&#8226;
+<a href="https://doi.org/10.1080/14616688.2020.1750683" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
 
 ## 2019
 

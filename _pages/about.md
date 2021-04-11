@@ -19,5 +19,5 @@ Germany
 
 ## Contact
 
-Email: stors [at] uni-trier [dot] de<br/>
+Email: research [at] nataliestors [dot] de<br/>
 Phone: +49 6581 8273011

@@ -5,14 +5,17 @@ permalink: /cv/
 
 ## Professional Experience
 
-**Since 08/2019:**
-Postdoctoral researcher at the chair of leisure and tourism geography at Trier University, Germany
+**Since 04/2021:**
+Team lead market analysis at the German National Tourist Board, Frankfurt, Germany.
 
-**09/2019-10/2019:**
+**08/2019 - 03/2021:**
+Postdoctoral researcher at the Chair of Leisure and Tourism Geography at Trier University, Germany
+
+**09/2019 - 10/2019:**
 Project-based work on "Technology Investment and  Tourism Growth" led by Associate Professor Rob Hallak at UniSA Business School, University of South Australia, Australia
 
 **08/2013 - 07/2019:**
-Doctoral researcher at the chair of leisure and tourism geography at Trier University, courses held, among others are *Advanced Methods and Techniques in Human Geography: Statistical Methods in Human Geography* (Master), *Advanced Regional and Location Analysis: Gentrification in Berlin* (Master), and *Tourism Mobility in Berlin* (Master) 
+Doctoral researcher at the Chair of Leisure and Tourism Geography at Trier University, courses held, among others are *Advanced Methods and Techniques in Human Geography: Statistical Methods in Human Geography* (Master), *Advanced Regional and Location Analysis: Gentrification in Berlin* (Master), and *Tourism Mobility in Berlin* (Master) 
 
 **05/2017:**
 Planning and organization of the international conference *Touristified everyday life – mundane tourism: Current perspectives on urban tourism*, Georg Simmel Center for Metropolitan Studies, Berlin, Germany
@@ -24,7 +27,7 @@ Lecturer at Trier University, courses held, among others: *Research project: Tou
 Internship at the tourism strategy consulting agency PROJECT M GmbH in Berlin, Germany
 
 **03/2008 - 06/2010:**
-Student assistant at the chair of leisure and tourism geography at Trier University, Germany (intermittently)
+Student assistant at the Chair of Leisure and Tourism Geography at Trier University, Germany (intermittently)
 
 **04/2007 - 10/2010**
 Student assistant in the department of marketing at Landal GreenParks GmbH in Saarburg, Germany (intermittently)
@@ -37,7 +40,7 @@ Dr. phil. (PhD), Geography, Trier University, Germany<br/>
 Title of dissertation: *Airbnb hosts as actors in new urban tourism: Studies on short-term rental and the construction of tourism space in Berlin*
 
 **01/2015 - 06/2015:**
-Scholarship at the Georg Simmel Center  for Metropolitan Studies at Humboldt-University Berlin, Germany
+Scholarship at the Georg Simmel Centerfor Metropolitan Studies at Humboldt-University Berlin, Germany
 
 **03/2011 - 08/2013:**
 Master of Arts, Applied Human Geography with focus on Tourism Development  and Destination Management, Trier University, Germany<br/>

@@ -94,12 +94,12 @@ analytics:
 author:
   name             : "Dr. Natalie Stors"
   avatar           : "/assets/images/natalie.jpg"
-  bio              : "Tourism Geography <br/> Researcher"
-  location         : "Trier, Germany"
+  bio              : "Market Analysis <br/> Tourism Geography"
+  location         : "Frankfurt, Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:stors@uni-trier.de"
+      url: "mailto:research@nataliestors.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://nataliestors.de"

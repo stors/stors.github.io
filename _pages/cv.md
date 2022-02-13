@@ -1,5 +1,5 @@
 ---
-title: Short Curriculum Vitae
+title: Curriculum Vitae
 permalink: /cv/
 ---
 

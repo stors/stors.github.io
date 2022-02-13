@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2021
 
+**Reisen in der eigenen Stadt: Stadt(teil)tourismus während der Corona-Pandemie.**<br/>
+Luise Stoltenberg, <u>Natalie Stors</u>, and Thomas Frisch<br/>
+*Zeitschrift für Tourismuswissenschaft Volume 13 Issue 3.*<br/>
+<a href="https://doi.org/10.1515/tw-2021-0029" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publicly Available</a>
+
 **New Urban Tourism.**<br/>
 Christoph Sommer and <u>Natalie Stors</u><br/>
 *Geographische Rundschau 1/2-2021.*<br/>

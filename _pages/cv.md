@@ -6,7 +6,7 @@ permalink: /cv/
 ## Professional Experience
 
 **Since 04/2021:**
-Team lead market analysis at the German National Tourist Board, Frankfurt, Germany.
+Head of market analysis at the German National Tourist Board, Frankfurt, Germany.
 
 **08/2019 - 03/2021:**
 Postdoctoral researcher at the Chair of Leisure and Tourism Geography at Trier University, Germany

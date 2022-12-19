@@ -116,7 +116,7 @@ author:
       icon: "ai ai-fw ai-researchgate"
       url: "https://www.researchgate.net/profile/Natalie_Stors"
     - label: "Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.de/citations?user=bSphiZYAAAAJ"
 
 # Site Footer

@@ -18,5 +18,5 @@ Rödelheimer Str. 1<br/>
 Germany
 ## Contact
 
-Email: research [at] nataliestors [dot] de<br/>
+Email: [Show email address](https://mailhide.io/e/3VB18eZK)<br/>
 Phone: +49 6581 8273011

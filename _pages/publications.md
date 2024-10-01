@@ -7,7 +7,8 @@ permalink: /publications/
 
 ### Beyond Overtourism, Undertourism, End of Tourism: New Perspectives for Urban Tourism.
 Luise Stoltenberg und <u>Natalie Stors</u> .<br/>
-*Markus Pillmayer, Marcus Hansen, Marion Karl (eds.): Tourism destination development: A geo- graphic perspective on destination management and tourist demand. De Gruyter Studies in Tourism (to appear).*<br/>
+*Markus Pillmayer, Marcus Hansen, Marion Karl (eds.): Tourism destination development: A geographic perspective on destination management and tourist demand. De Gruyter Studies in Tourism.*<br/>
+<a href="https://books.google.de/books?hl=de&lr=&id=UtASEQAAQBAJ&oi=fnd&pg=PA381&ots=KBETWHTduL&sig=9SOqQWH1Tlsokz4Y9tOKImdWz8w#v=onepage&q&f=false" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Google Books</a>
 
 ## 2022
 

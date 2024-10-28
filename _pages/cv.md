@@ -5,7 +5,13 @@ permalink: /cv/
 
 ## Professional Experience
 
-**Since 04/2021:**
+**Since 10/2024:**
+Professor of of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
+
+**04/2024 - 09/2024:**
+Substitute Professor of of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
+
+**04/2021 - 03/2024:**
 Head of market analysis at the German National Tourist Board, Frankfurt, Germany.
 
 **08/2019 - 03/2021:**
@@ -31,7 +37,6 @@ Student assistant at the Chair of Leisure and Tourism Geography at Trier Univers
 
 **04/2007 - 10/2010**
 Student assistant in the department of marketing at Landal GreenParks GmbH in Saarburg, Germany (intermittently)
-
 
 ## Education
 

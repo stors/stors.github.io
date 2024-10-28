@@ -95,7 +95,7 @@ author:
   name             : "Dr. Natalie Stors"
   avatar           : "/assets/images/natalie.jpg"
   bio              : "Market Analysis <br/> Tourism Geography"
-  location         : "Frankfurt, Germany"
+  location         : "Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

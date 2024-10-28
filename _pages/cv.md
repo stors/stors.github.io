@@ -6,10 +6,10 @@ permalink: /cv/
 ## Professional Experience
 
 **Since 10/2024:**
-Professor of of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
+Professor of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
 
 **04/2024 - 09/2024:**
-Substitute Professor of of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
+Substitute Professor of Tourism Management (Marketing and Market Research), Wernigerode, Germany.
 
 **04/2021 - 03/2024:**
 Head of market analysis at the German National Tourist Board, Frankfurt, Germany.

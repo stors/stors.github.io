@@ -10,4 +10,4 @@ gem "jekyll-include-cache"
 
 gem "minimal-mistakes-jekyll"
 
-gem "webrick", "~> 1.7"
+#gem "webrick", "~> 1.7"

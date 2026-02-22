@@ -1,4 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes
 
 # Welcome to Jekyll!
 #
@@ -13,8 +14,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "nataliestors.de"
 title_separator          : "-"
-name                     : "Dr. Natalie Stors"
-description              : "Dr. Natalie Stors, Tourism Geography Researcher"
+name                     : "Prof. Dr. Natalie Stors"
+description              : "Prof. Dr. Natalie Stors, Tourism Management Professor"
 url                      : "https://stors.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stors/stors.github.io"
@@ -92,23 +93,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Natalie Stors"
+  name             : "Prof. Dr. Natalie Stors"
   avatar           : "/assets/images/natalie.jpg"
-  bio              : "Market Analysis <br/> Tourism Geography"
+  bio              : "Tourism Management <br/> Destination Development"
   location         : "Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:research@nataliestors.de"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://nataliestors.de"
+      url: "https://mailhide.io/e/3VB18eZK"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://de.linkedin.com/in/dr-natalie-stors-34978b127"
-    - label: "XING"
-      icon: "fab fa-fw fa-xing"
-      url: "https://www.xing.com/profile/Natalie_Stors"
     - label: "Academia"
       icon: "ai ai-fw ai-academia"
       url: "http://uni-trier.academia.edu/NatalieStors"

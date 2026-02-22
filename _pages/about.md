@@ -19,4 +19,3 @@ Germany
 ## Contact
 
 Email: [Show email address](https://mailhide.io/e/3VB18eZK)<br/>
-Phone: +49 6581 8273011

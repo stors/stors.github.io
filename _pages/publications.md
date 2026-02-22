@@ -3,10 +3,17 @@ title: Publications
 permalink: /publications/
 ---
 
-## 2023
+## 2025
 
-### Beyond Overtourism, Undertourism, End of Tourism: New Perspectives for Urban Tourism.
-Luise Stoltenberg und <u>Natalie Stors</u> .<br/>
+### Stadt und Tourismus.
+Florian Eggli, Eva Erdmenger, Moritz Langer, Julian Reif, Christoph Sommer, <u>Natalie Stors</u>, Niklas Völkening, Nory Winsky<br/>
+*Bernd Eisenstein, Werner Gronau, Tim Harms, Hans Hopfinger, Marius Mayer, Nadine Scharfenort, Ina Voshage (Hrsg.): Geographien des Tourismus und der Freizeit.*<br/>
+(under review)
+
+## 2024
+
+### Beyond overtourism, undertourism, end of tourism: new perspectives for urban tourism.
+Luise Stoltenberg und <u>Natalie Stors</u><br/>
 *Markus Pillmayer, Marcus Hansen, Marion Karl (eds.): Tourism destination development: A geographic perspective on destination management and tourist demand. De Gruyter Studies in Tourism.*<br/>
 <a href="https://books.google.de/books?hl=de&lr=&id=UtASEQAAQBAJ&oi=fnd&pg=PA381&ots=KBETWHTduL&sig=9SOqQWH1Tlsokz4Y9tOKImdWz8w#v=onepage&q&f=false" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Google Books</a>
 
@@ -26,10 +33,14 @@ Luise Stoltenberg, <u>Natalie Stors</u>, and Thomas Frisch<br/>
 *Zeitschrift für Tourismuswissenschaft Volume 13 Issue 3.*<br/>
 <a href="https://doi.org/10.1515/tw-2021-0029" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publicly Available</a>
 
-### New Urban Tourism.
+### New Urban Tourism: Orte, Konflikte und Regulierungsversuche.
 Christoph Sommer and <u>Natalie Stors</u><br/>
-*Geographische Rundschau 1/2-2021.*<br/>
+*Geographische Rundschau 1/2-2021, S. 20-25.*<br/>
 <a href="https://www.westermann.de/artikel/51210101/Geographische-Rundschau-digital-Tourismus?f=F51210100" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
+
+### Erlebnisorientierung im New Urban Tourism.
+Andreas Kagermeier, Eva Erdmenger und <u>Natalie Stors</u><br/>
+*Christian Eilzer, Manfred Dörr und Sylvia Müller (Hrsg.): Erlebnisse und Tourismus. Ergebnisse der 4. Deidesheimer Gespräche zur Tourismuswirtschaft. Schriftenreihe des Instituts für Management und Tourismus, Vol. 18, S. 57-84.*
 
 ## 2019
 
@@ -125,6 +136,10 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 Andreas Kagermeier and <u>Natalie Stors</u>.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. pp. 41-59.*<br/>
 <a href="/assets/pdf/sft13-cross-border-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
+
+### Tourismusstudies Ahrtal.
+<u>Natalie Stors</u> und Andreas Kagermeier.<br/>
+*Intern veröffentlichtes Gutachten im Auftrag der IHK Koblenz, in Kooperation mit dem Ahrtal-Tourismus Bad Neuenahr-Ahrweiler e. V. und dem Ahrwein e. V.*
 
 ## 2012
 

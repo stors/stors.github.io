@@ -2,8 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "Teaching"
     url: /teaching/
+  - title: "Talks"
+    url: /talks/
   - title: "CV"
     url: /cv/
   - title: "Blog"

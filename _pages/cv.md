@@ -6,7 +6,8 @@ permalink: /cv/
 ## Professional Experience
 
 **Since 10/2024:**
-Professor of Tourism Management (Marketing and Market Research) at Hochschule Harz, Wernigerode, Germany.
+Professor of Tourism Management (Marketing and Market Research) at Hochschule Harz, Wernigerode, Germany.<br/>
+Research projects (selection): *Klimafußabdruck des Tourismus im Harz* (project lead, 2025) and *Sozioökonomisches Monitoring (SÖM) des Tourismus im Nationalpark Harz* (project member, since 2025).
 
 **Since 03/2024:**
 Lehrauftrag at Hochschule Weihenstephan-Triesdorf for *Destinationsmanagement* (Master).
@@ -15,13 +16,21 @@ Lehrauftrag at Hochschule Weihenstephan-Triesdorf for *Destinationsmanagement* (
 Substitute Professor of Tourism Management (Marketing and Market Research) at Hochschule Harz, Wernigerode, Germany.
 
 **04/2021 - 03/2024:**
-Head of market analysis at the German National Tourist Board, Frankfurt, Germany.
+Head of market research at the German National Tourist Board (DZT), Frankfurt, Germany, with budget and staff responsibility. Projects included:
+
+* Modeling greenhouse gas emissions of German incoming tourism for integration into the DZT Sustainability Dashboard
+* Portfolio analyses of the source markets relevant for incoming tourism to Germany, including reporting to the Federal Ministry for Economic Affairs
+* International studies on incoming tourism to Germany with DWIF-Consulting GmbH (*Qualitätsmonitor Deutschlandtourismus*) and IPK International (*World and European Travel Monitor*)
+* Analyses for presenting the work of the DZT to the Tourism Committee of the German Bundestag
 
 **08/2019 - 03/2021:**
 Postdoctoral researcher at the Chair of Leisure and Tourism Geography at University of Trier, Germany
 
-**09/2019 - 10/2019:**
-Project-based work on "Technology Investment and  Tourism Growth" led by Associate Professor Rob Hallak at UniSA Business School, University of South Australia, Australia
+**07/2019 - 10/2019:**
+Research stay in Adelaide, Australia
+
+* Extending research projects on the platform economy beyond the European context
+* Participation in the project *Technology Investment and Tourism Growth* led by Associate Professor Rob Hallak at UniSA Business School, University of South Australia (09/2019 - 10/2019)
 
 **08/2013 - 07/2019:**
 Doctoral researcher at the Chair of Leisure and Tourism Geography at University of Trier, courses held, among others are *Advanced Methods and Techniques in Human Geography: Statistical Methods in Human Geography* (Master), *Advanced Regional and Location Analysis: Gentrification in Berlin* (Master), and *Tourism Mobility in Berlin* (Master)
@@ -68,14 +77,20 @@ Abitur, Staatliches Gymnasium Saarburg, Germany
 
 **Associations**
 
-* Since 2025: Board member (Schatzmeisterin) of the Arbeitskreis Tourismusforschung in der Deutschen Gesellschaft für Geographie e. V. (AKTF)
-* Since 2019: Board member of the Initiative Tourismus Forschung e. V. (ITF)
+* Since 2025: Member of the extended board (Schatzmeisterin) of the Arbeitskreis Tourismusforschung in der Deutschen Gesellschaft für Geographie e. V. (AKTF)
+* Since 2019: Board member of the Initiative Tourismus Forschung e. V. (ITF), which awards prizes for the best Bachelor and Master theses
 * Since 2015: Member of the Arbeitskreis Tourismusforschung in der Deutschen Gesellschaft für Geographie e. V. (AKTF)
 * Since 2015: Co-initiator of the Urban Research Group New Urban Tourism at the Georg Simmel Center for Metropolitan Studies (GSZ), Humboldt-Universität zu Berlin
+  * 2024: Joint chapter *Stadt und Tourismus* for the Springer textbook *Geographien des Tourismus und der Freizeit*
+  * 2021: Dialogue format *New Urban Tourism Short Trips* during the contact restrictions of the Corona pandemic
+  * 2019: Edited volume *Tourism and Everyday Life in the Contemporary City* (Routledge)
+  * 2017: Organization of the international conference *Touristified everyday life – mundane tourism: Current perspectives on urban tourism*
+  * 2015: Founding of the group at the GSZ
 
 **University committees**
 
-* Since 2025: Berufungskommission for the W2-Professorship Tourism Management at Hochschule Harz
+* 2026: Berufungskommission for the W2-Professorship Marketing und Management at Hochschule Harz
+* 2025: Berufungskommission for the W2-Professorship Tourismusmanagement und Betriebswirtschaftslehre, insbesondere Destinationsmanagement, at Hochschule Harz
 * Since 2025: Zulassungskommission for the Master program Tourism Destination Management at Hochschule Harz
 * 2015-2017: Elected representative of Ph.D. students for Faculty VI in the Graduate Center, University of Trier, Germany
 
@@ -92,11 +107,12 @@ Reviewer for the following academic journals:
 ## Grants & Funding
 
 * **2025:** Forschungsförderung — Organisation der DGT-Fachsession "Frauen im Tourismus und in der Tourismusforschung" im Rahmen der DGT-Jahrestagung 2025 in Berlin (Förderrichtlinie zur Stärkung der Gleichstellung, Hochschule Harz)
-* **2025:** Forschungsprojekt "Klimafußabdruck des Tourismus im Harz" (Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt, via FSP-NaRET)
+* **2025:** Anschubfinanzierung für Neuberufene — Forschungsprojekt "Klimafußabdruck des Tourismus im Harz", 01.01.2025 - 31.12.2025 (Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt, via FSP-NaRET)
 * **2024:** Vortragsförderung — Teilnahme an der ATLAS Annual Conference 2024 in Breda, Niederlande (Förderrichtlinie zur Stärkung der Gleichstellung, Hochschule Harz)
 * **2024:** Lehrauftragsförderung (LAP) "rein-in-die-hörsäle" (Landeskonferenz der Frauen- und Gleichstellungsbeauftragten an bayerischen Hochschulen für angewandte Wissenschaften)
 * **2018:** Reisekostenstipendium — CSCW 2018 in Jersey City, USA (Mary-Kingsley-Fonds / Forschungsfonds Universität Trier)
 * **2017:** Reisekostenstipendium — ATLAS Conference in Viana do Castelo, Portugal (Forschungsfonds Universität Trier)
+* **2017:** Reisekostenstipendium — Konferenz "Touristified everyday life – mundane tourism" in Berlin (Mary-Kingsley-Fonds, Universität Trier)
 * **2017:** Drittmittelförderung — Konferenz "Touristified everyday life – mundane tourism: Current perspectives on urban tourism" (KOSMOS Dialog, Humboldt-Universität zu Berlin)
 * **2016:** DAAD-Kongress- und Vortragsreiseförderung — AAG in San Francisco, USA
 * **2015:** Forschungs-Stipendium — Georg-Simmel-Zentrum für Metropolenforschung, Humboldt-Universität zu Berlin

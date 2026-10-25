@@ -3,6 +3,18 @@ title: Talks
 permalink: /talks/
 ---
 
+## 2026
+
+### Podiumsdiskussion: Was bringt Tourismus in Stadt und Land?
+Katja Hilt, Yannik Jaeckert, <u>Natalie Stors</u>, Gerhard Rainer, Birgit Grauvogel & Fabian Frenzel<br/>
+Off the Beaten Track – Ländliche Räume zwischen touristischer Aufwertung und Marginalisierung. Gemeinsame Tagung der Arbeitskreise "Ländliche Räume" und "Tourismusforschung" in der Deutschen Gesellschaft für Geographie.<br/>
+27\. Mai 2026, Trier.
+
+### Klimafußabdruck des Tourismus im Harz
+<u>Natalie Stors</u><br/>
+Internationale Grüne Woche Berlin.<br/>
+19\. Januar 2026, Berlin.
+
 ## 2025
 
 ### Status Quo der genderspezifischen Tourismusforschung

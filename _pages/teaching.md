@@ -3,6 +3,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## 2026
+* 03/2026 - 08/2026: Seminaristische Vorlesung *Destination Strategies* <br/>(Hochschule Harz, Master, English)
+* 03/2026 - 08/2026: Seminaristische Vorlesung *Cases in Sustainable Tourism* <br/>(Hochschule Harz, Master, English)
+* 03/2026 - 08/2026: Seminar *Marketingkonzeption* <br/>(Hochschule Harz, Bachelor)
+* 03/2026 - 08/2026: Vorlesung *Destinationsmanagement* <br/>(Hochschule Weihenstephan-Triesdorf, Master, Lehrauftrag)
+* 05/2026: Exkursion zur gemeinsamen Tagung der Arbeitskreise Tourismusforschung (AKTF) und Ländliche Räume in der Deutschen Gesellschaft für Geographie in Trier: *Off the Beaten Track – Ländliche Räume zwischen touristischer Aufwertung und Marginalisierung* <br/>(Hochschule Harz, Master)
+
 ## 2025
 * 09/2025 - 02/2026: Seminaristische Vorlesung *Standortfaktoren* <br/>(Hochschule Harz, Master)
 * 09/2025 - 02/2026: Seminar *Destinationsmanagement* <br/>(Hochschule Harz, Bachelor)
@@ -12,6 +19,7 @@ permalink: /teaching/
 * 03/2025 - 08/2025: Seminar *International Expansion of Tourism Enterprises* <br/>(Hochschule Harz, Bachelor, English)
 * 03/2025 - 08/2025: Seminar *Marketingkonzeption* <br/>(Hochschule Harz, Bachelor)
 * 03/2025 - 08/2025: Exkursion im Rahmen der Projektwoche: *Regionale Produkte im Tourismus*, Besuch der Micro-Brauerei "Harzer Craft Bier" in Förste
+* 03/2025 - 08/2025: Vorlesung *Destinationsmanagement* <br/>(Hochschule Weihenstephan-Triesdorf, Master, Lehrauftrag)
 
 ## 2024
 * 09/2024 - 02/2025: Seminaristische Vorlesung *Standortfaktoren* <br/>(Hochschule Harz, Master)
@@ -72,9 +80,10 @@ permalink: /teaching/
 ## Supervised Theses
 
 ### Master, Erstbetreuung
-* 2025: Zwischen Widerstand und Akzeptanz: Anwendung von Change Management bei der Einführung von Beherbergungssteuern (in Bearbeitung)
-* 2025: Einführung von Open Data in Destinationen – Qualitative Untersuchung am Beispiel von Niedersachsen (in Bearbeitung)
-* 2025: Wie entstehen besondere Erlebnisse? Untersuchung der Erlebniswahrnehmung bei kulinarischen Stadtführungen anhand einer teilnehmenden Beobachtung (in Bearbeitung)
+* 2026: Sozioökonomische Transformation des Wintertourismus: Analyse von Interventionsräumen auf Basis von Systems Thinking (in Bearbeitung)
+* 2026: Wie entstehen besondere Erlebnisse? Untersuchung der Erlebniswahrnehmung bei kulinarischen Stadtführungen anhand einer teilnehmenden Beobachtung
+* 2025: Zwischen Widerstand und Akzeptanz: Anwendung von Change Management bei der Einführung von Beherbergungssteuern
+* 2025: Einführung von Open Data in Destinationen – Qualitative Untersuchung am Beispiel von Niedersachsen
 * 2025: Wild Camping in Norwegen - Eine autoethnografische Untersuchung der Herausforderungen und Lösungsansätze für nachhaltiges Campen im Kontext des „Allemannsretten" (in Bearbeitung)
 * 2025: Das Image von Mallorca – Eine Analyse des Selbst- und Fremdbildes
 
@@ -86,8 +95,8 @@ permalink: /teaching/
 * 2019: Das touristische Wertschöpfungspotential des Saar-Radweges für die Stadt Saarlouis. Potentiale des Saar-Radweges und Möglichkeiten diese bestmöglich zu nutzen
 
 ### Bachelor, Erstbetreuung
-* 2025: Markenkompatibilität im Tourismus: Karls Erlebnis-Dorf und die touristische Identität Wernigerodes (in Bearbeitung)
-* 2025: Grassroot Music Venues under Pressure: The role of the Agent of Change principle in London (in Bearbeitung)
+* 2026: Markenkompatibilität im Tourismus: Karls Erlebnis-Dorf und die touristische Identität Wernigerodes
+* 2026: Grassroot Music Venues under Pressure: The role of the Agent of Change principle in London
 * 2025: Umweltbildung im Nationalpark Harz – Ein Leitfaden für nachhaltige Angebote (in Bearbeitung)
 * 2024: Nachhaltigkeit im Städtetourismus – Analyse und Bewertung der touristischen Nachhaltigkeitsstrategie Leipzig Region
 

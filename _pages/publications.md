@@ -3,6 +3,13 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2026
+
+### Status Quo der genderspezifischen Tourismusforschung.
+<u>Natalie Stors</u>, Matilde S. Groß, and Nadine Yarar<br/>
+*Christoph Henseler, Bartosz Klimek (Hrsg.): (Sozio-)Demographischer Wandel im Tourismus Reloaded. 28. Jahrestagung der Deutschen Gesellschaft für Tourismuswissenschaft e.V., Berlin.*<br/>
+(in preparation)
+
 ## 2025
 
 ### Stadt und Tourismus.
@@ -30,7 +37,7 @@ Luise Stoltenberg und <u>Natalie Stors</u><br/>
 
 ### Reisen in der eigenen Stadt: Stadt(teil)tourismus während der Corona-Pandemie.
 Luise Stoltenberg, <u>Natalie Stors</u>, and Thomas Frisch<br/>
-*Zeitschrift für Tourismuswissenschaft Volume 13 Issue 3.*<br/>
+*Zeitschrift für Tourismuswissenschaft, Vol. 13/3, pp. 316-323.*<br/>
 <a href="https://doi.org/10.1515/tw-2021-0029" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publicly Available</a>
 
 ### New Urban Tourism: Orte, Konflikte und Regulierungsversuche.
@@ -51,12 +58,12 @@ Andreas Kagermeier, Eva Erdmenger und <u>Natalie Stors</u><br/>
 
 ### Living with Guests: Understanding the Reasons for Hosting via Airbnb in a Mobile Society.
 <u>Natalie Stors</u>.<br/>
-*In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>
+*In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City, pp. 112-138.*<br/>
 <a href="https://www.routledge.com/Tourism-and-Everyday-Life-in-the-Contemporary-City-1st-Edition/Frisch-Sommer-Stoltenberg-Stors/p/book/9781138580725#" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Publisher's Website</a>
 
 ### Tourism and Everyday Life in the Contemporary City: An Introduction.
 <u>Natalie Stors</u>, Luise Stoltenberg, Thomas Frisch, and Christoph Sommer.<br/>
-*In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City.*<br/>
+*In: Tourism and Everyday Life in the Contemporary City, Routledge Studies in Urbanism and the City, pp. 1-23.*<br/>
 <a href="https://books.google.de/books?id=88uGDwAAQBAJ&lpg=PP1&dq=Tourism%20and%20Everyday%20Life%20in%20the%20Contemporary%20City&pg=PT17#v=onepage&q&f=false" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Google Books</a>
 
 ### Tourism and Everyday Life in the Contemporary City.
@@ -87,14 +94,14 @@ Christoph Sommer, Luise Stoltenberg, Thomas Frisch, and <u>Natalie Stors</u>.<br
 
 ### The sharing economy and its role in metropolitan tourism.
 <u>Natalie Stors</u> and Andreas Kagermeier.<br/>
-*Gravari-Barbas, Maria & Guinand, Sandra (Hrsg.): Tourism & Gentrification in Contemporary Metropolises. London. pp. 181-206.*<br/>
+*Gravari-Barbas, Maria & Guinand, Sandra (Hrsg.): Tourism & Gentrification in Contemporary Metropolises. Routledge, London. pp. 181-206.*<br/>
 <a href="/assets/pdf/tgcm17-sharing-economy-metropolitan-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2016
 
 ### Airbnb als Share Economy - Herausforderung für Berlin und die Reaktion der Hotelbranche.
 Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
-*Bauhuber, Florian & Hopfinger, Hans (Hrsg.): Mit Auto, Brille, Fon und Drohne. Aspekte neuen Reisens im 21. Jahrhundert (= Studien zur Freizeit- und Tourismusforschung, Band 10). Mannheim. pp. 67-94.*<br/>
+*Bauhuber, Florian & Hopfinger, Hans (Hrsg.): Mit Auto, Brille, Fon und Drohne. Aspekte neuen Reisens im 21. Jahrhundert (= Studien zur Freizeit- und Tourismusforschung, Band 12). Mannheim. pp. 67-94.*<br/>
 <a href="/assets/pdf/sft16-airbnb-share-economy.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
 ## 2015
@@ -117,7 +124,7 @@ Andreas Kagermeier, Julia Köller, and <u>Natalie Stors</u>.<br/>
 ## 2014
 
 ### Kommodifizierung im Tourismus - der Bedarf nach Innovation: Das Global Greeter Network als beispielhaftes Produkt eines neuen Städtetourismus.
-<u>Natalie Stors</u> and Fanziska Klein.<br/>
+<u>Natalie Stors</u> and Franziska Klein.<br/>
 *Küblböck, Stefan & Thiele, Franziska (Hrsg.): Tourismus und Innovation (= Studien zur Freizeit- und Tourismusforschung, Band 10). Mannheim. pp. 107-122.*<br/>
 <a href="/assets/pdf/sft14-global-greeter-network.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
@@ -137,7 +144,7 @@ Andreas Kagermeier and <u>Natalie Stors</u>.<br/>
 *Thimm, Tatjana (Hrsg.): Tourismus und Grenzen (= Studien zur Freizeit- und Tourismusforschung, Band 9). Mannheim. pp. 41-59.*<br/>
 <a href="/assets/pdf/sft13-cross-border-tourism.pdf" target="_blank" style="color: inherit; text-decoration: none;"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i> Preprint</a>
 
-### Tourismusstudies Ahrtal.
+### Tourismusstudie Ahrtal.
 <u>Natalie Stors</u> und Andreas Kagermeier.<br/>
 *Intern veröffentlichtes Gutachten im Auftrag der IHK Koblenz, in Kooperation mit dem Ahrtal-Tourismus Bad Neuenahr-Ahrweiler e. V. und dem Ahrwein e. V.*
 

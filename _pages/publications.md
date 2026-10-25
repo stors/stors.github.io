@@ -3,19 +3,22 @@ title: Publications
 permalink: /publications/
 ---
 
+Below, you'll find my publication list including preprints where available. You may also consult my <a href="https://scholar.google.de/citations?user=bSphiZYAAAAJ" target="_blank" style="color: inherit; text-decoration: none;"><i class="ai ai-fw ai-google-scholar" aria-hidden="true"></i> Google Scholar</a> profile.
+
+## 2027
+
+### Stadt und Tourismus.
+Florian Eggli, Eva Erdmenger, Moritz Langer, Julian Reif, Christoph Sommer, <u>Natalie Stors</u>, Niklas Völkening, Nory Winsky<br/>
+*Bernd Eisenstein, Werner Gronau, Tim Harms, Hans Hopfinger, Marius Mayer, Nadine Scharfenort, Ina Voshage (Hrsg.): Geographien des Tourismus. Springer, Berlin, 2027.*<br/>
+(to appear)
+
 ## 2026
 
 ### Status Quo der genderspezifischen Tourismusforschung.
 <u>Natalie Stors</u>, Matilde S. Groß, and Nadine Yarar<br/>
-*Christoph Henseler, Bartosz Klimek (Hrsg.): (Sozio-)Demographischer Wandel im Tourismus Reloaded. 28. Jahrestagung der Deutschen Gesellschaft für Tourismuswissenschaft e.V., Berlin.*<br/>
+*Christoph Henseler, Bartosz Klimek (Hrsg.): (Sozio)Demographischer Wandel im Tourismus Reloaded.*<br/>
+*28. Jahrestagung der Deutschen Gesellschaft für Tourismuswissenschaft e.V., Berlin.*<br/>
 (in preparation)
-
-## 2025
-
-### Stadt und Tourismus.
-Florian Eggli, Eva Erdmenger, Moritz Langer, Julian Reif, Christoph Sommer, <u>Natalie Stors</u>, Niklas Völkening, Nory Winsky<br/>
-*Bernd Eisenstein, Werner Gronau, Tim Harms, Hans Hopfinger, Marius Mayer, Nadine Scharfenort, Ina Voshage (Hrsg.): Geographien des Tourismus und der Freizeit.*<br/>
-(under review)
 
 ## 2024
 

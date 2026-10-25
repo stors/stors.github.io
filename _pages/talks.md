@@ -18,9 +18,14 @@ Internationale Grüne Woche Berlin.<br/>
 ## 2025
 
 ### Status Quo der genderspezifischen Tourismusforschung
-<u>Natalie Stors</u> & Matilde Groß<br/>
+<u>Natalie Stors</u>, Matilde S. Groß, Kerstin Heuwinkel & Nadine Yarar<br/>
+Fachsession "Frauen im Tourismus und in der Tourismusforschung". (Sozio)Demographischer Wandel im Tourismus Reloaded. 28. Jahrestagung der Deutschen Gesellschaft für Tourismuswissenschaft e.V.<br/>
+22\. November 2025, Berlin.
+
+### Frauen im Tourismus – Netzwerksession
+<u>Natalie Stors</u> & Matilde S. Groß (Chairs)<br/>
 (Sozio)Demographischer Wandel im Tourismus Reloaded. 28. Jahrestagung der Deutschen Gesellschaft für Tourismuswissenschaft e.V.<br/>
-20.-22. November 2025, Berlin.
+21\. November 2025, Berlin.
 
 ## 2024
 

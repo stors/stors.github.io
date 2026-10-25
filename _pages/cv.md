@@ -3,6 +3,8 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+Below, you'll find my professional experience, education, engagements in associations and university committees, reviewing activities, and grants.
+
 ## Professional Experience
 
 **Since 10/2024:**

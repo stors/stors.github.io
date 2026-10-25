@@ -13,3 +13,6 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 .claude/
+# application documents must never be published
+application*.pdf
+Bewerbung*.pdf

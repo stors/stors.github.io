@@ -3,6 +3,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+Below, you'll find the courses I have taught since 2011 and the theses I have supervised.
+
 ## 2026
 * 03/2026 - 08/2026: Seminaristische Vorlesung *Destination Strategies* <br/>(Hochschule Harz, Master, English)
 * 03/2026 - 08/2026: Seminaristische Vorlesung *Cases in Sustainable Tourism* <br/>(Hochschule Harz, Master, English)

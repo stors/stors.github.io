@@ -12,7 +12,7 @@ Below, you'll find my current and past research and transfer projects.
 Third-party funded project that determines the socio-economic value creation of tourism in the Harz National Park.
 
 ### DokTour: Arbeits- und Lebensbedingungen von Promovierenden mit tourismuswissenschaftlichem Forschungsschwerpunkt in Deutschland
-Cooperation project between Hochschule Harz, the Deutsches Institut für Tourismusforschung, and FH Westküste.
+Cooperation project between Hochschule Harz and the Deutsches Institut für Tourismusforschung (DITF) at Fachhochschule Westküste.
 
 ## Past Projects
 

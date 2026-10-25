@@ -3,6 +3,8 @@ title: Talks
 permalink: /talks/
 ---
 
+Below, you'll find the talks, panel contributions, and session chairs I have given or held since 2012.
+
 ## 2026
 
 ### Podiumsdiskussion: Was bringt Tourismus in Stadt und Land?

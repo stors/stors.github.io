@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: daily
+    allow:
+      - dependency-type: direct
+    ignore:
+      - dependency-name: "sass-embedded"
+        versions: [">= 1.79.0"]  # prevent deprecation warnings https://github.com/jekyll/jekyll/issues/9686#issuecomment-2362850868
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+  - package-ecosystem: npm  # Font Awesome and Academicons, see _copy_assets.sh
+    directory: /
+    schedule:
+      interval: daily

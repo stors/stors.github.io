@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "description": "Front-end packages that the website serves. _copy_assets.sh copies them into assets/.",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "7.3.1",
+    "academicons": "1.9.5"
+  }
+}

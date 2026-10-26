@@ -1,7 +1,3 @@
 [tools]
 ruby = '3.4.1'
-
-[env]
-# Without this, jekyll-github-metadata guesses a project-page baseurl for
-# local builds and prefixes every asset path with /pages/stors.
-PAGES_REPO_NWO = 'stors/stors.github.io'
+node = '22'

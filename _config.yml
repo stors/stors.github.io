@@ -161,6 +161,8 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - mise.toml
   - Rakefile
   - README
   - tmp
@@ -197,6 +199,10 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true
+  silence_deprecations:
+    - mixed-decls
+    - slash-div
 
 
 # Outputting
